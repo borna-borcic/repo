@@ -21,3 +21,5 @@ Nezgodno je pak jer simultano se čestice mikroplastike mogu pronaći u postelji
 Dva različita rada, tek jedan (za mene pouzdaniji) potvrđuje BPA leach iz Invisalign ortodontskog pomagala. Uputno je istaknuti da je u radu gdje nisu uočene relevantne razine BPA ispita otopina podrazumijeva etanol u različitim primjesama dok se u izgledno legitimnijem radu koristila umjetna slina. Usprkos izostanku BPA, prvi je rad zabilježio dobre količine MP-a u otopini.
 - [prvi rad](https://bornaborcic.github.io/rpm.2103034.pdf)
 - [drugi rad](https://bornaborcic.github.io/dentistry-10-00027.pdf)
+
+https://bornaborcic.github.io/braun2021.pdf
