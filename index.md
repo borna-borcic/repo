@@ -1,4 +1,4 @@
 ---
-title: Obsidian notes expo
+title: Kolekcije:
 ---
 
