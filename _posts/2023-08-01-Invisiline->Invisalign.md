@@ -12,7 +12,7 @@ Nezgodno je pak jer simultano se čestice mikroplastike mogu pronaći u postelji
 - [primjer 1](https://bornaborcic.github.io/10.1016@j.envint.2020.106274.pdf)
 - [primjer 2](https://bornaborcic.github.io/braun2021.pdf)
 
-==Mikroplastike kao generalni endokrini disruptori?==
+Mikroplastike kao generalni endokrini disruptori?
 ## BPA
 >Based on our current knowledge and testing of the raw materials and processes used in the manufacture of aligners and retainers, we are not aware of any latex, parabens, phthalates, glutaraldehyde, epoxy or Bisphenol A (BPA) present in our aligners or retainers. Of course, as with any medical device, you should consult with your health professional about your aligner or retainer treatment and any applicable risks of use.
 
