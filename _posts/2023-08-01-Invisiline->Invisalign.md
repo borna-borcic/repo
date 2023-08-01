@@ -10,7 +10,7 @@ date: 2023-08-01
 
 Nezgodno je pak jer simultano se čestice mikroplastike mogu pronaći u posteljici trudnih žena, a propusnost posteljice na čestice za nas relevantnih promjera (5 do 20) također je dokazana.
 - [primjer 1](10.1016@j.envint.2020.106274.pdf)
-- [primjer 1](braun2021.pdf)
+- [primjer 2](braun2021.pdf)
 
 ==Mikroplastike kao generalni endokrini disruptori?==
 ## BPA
