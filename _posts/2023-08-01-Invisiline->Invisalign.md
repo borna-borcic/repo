@@ -9,8 +9,8 @@ date: 2023-08-01
 >This _in vitro_ study highlighted for the first time the detachment of MPs from clear aligners due to mechanical friction. This evidence may represent a great concern in the clinical practice since it could [impact human](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/anthropogenic-effect "Learn more about impact human from ScienceDirect's AI-generated Topic Pages") general health.
 
 Nezgodno je pak jer simultano se čestice mikroplastike mogu pronaći u posteljici trudnih žena, a propusnost posteljice na čestice za nas relevantnih promjera (5 do 20) također je dokazana.
-- [primjer 1](10.1016@j.envint.2020.106274.pdf)
-- [primjer 2](braun2021.pdf)
+- [primjer 1](https://bornaborcic.github.io/10.1016@j.envint.2020.106274.pdf)
+- [primjer 2](https://bornaborcic.github.io/braun2021.pdf)
 
 ==Mikroplastike kao generalni endokrini disruptori?==
 ## BPA
@@ -19,5 +19,5 @@ Nezgodno je pak jer simultano se čestice mikroplastike mogu pronaći u postelji
 [As of 31.7.2023.](https://www.invisalign.com/frequently-asked-questions)
 
 Dva različita rada, tek jedan (za mene pouzdaniji) potvrđuje BPA leach iz Invisalign ortodontskog pomagala. Uputno je istaknuti da je u radu gdje nisu uočene relevantne razine BPA ispita otopina podrazumijeva etanol u različitim primjesama dok se u izgledno legitimnijem radu koristila umjetna slina. Usprkos izostanku BPA, prvi je rad zabilježio dobre količine MP-a u otopini.
-- [prvi rad](rpm.2103034)
-- [drugi rad](dentistry-10-00027)
+- [prvi rad](https://bornaborcic.github.io/rpm.2103034.pdf)
+- [drugi rad](https://bornaborcic.github.io/dentistry-10-00027.pdf)
