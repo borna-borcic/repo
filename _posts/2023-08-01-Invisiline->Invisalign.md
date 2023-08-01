@@ -22,14 +22,22 @@ Dodatan osvrt na potencijalne utjecaje MP na ~~plod~~ bebonju[^3]:
 >
 >In conclusion, this study sheds new light on the level of human exposure to MPs and microparticles in general. Due to the crucial role of placenta in supporting the foetus development and in acting as an interface between the latter and the external environment, the presence of exogenous and potentially harmful (plastic) particles is a matter of great concern. Possible consequences on pregnancy outcomes and foetus are the transgenerational effects of plasticizer on metabolism and reproduction (Lee, 2018). Further studies need to be performed to assess if the presence of MPs in human placenta may trigger immune responses or may lead to the release of toxic contaminants, resulting harmful for pregnancy.
 ## BPA
+Invisalign tvrdi da nisu upoznati s prisutnošću BPA u aparatićima:
 >Based on our current knowledge and testing of the raw materials and processes used in the manufacture of aligners and retainers, we are not aware of any latex, parabens, phthalates, glutaraldehyde, epoxy or Bisphenol A (BPA) present in our aligners or retainers. Of course, as with any medical device, you should consult with your health professional about your aligner or retainer treatment and any applicable risks of use.
 
 [As of 31.7.2023.](https://www.invisalign.com/frequently-asked-questions)
 
-Dva različita rada, tek jedan (za mene pouzdaniji) potvrđuje BPA leach iz Invisalign ortodontskog pomagala. Uputno je istaknuti da je u radu gdje nisu uočene relevantne razine BPA ispita otopina podrazumijeva etanol u različitim primjesama dok se u izgledno legitimnijem radu koristila umjetna slina. Usprkos izostanku BPA, prvi je rad zabilježio dobre količine MP-a u otopini.
-- [prvi rad](https://bornaborcic.github.io/rpm.2103034.pdf)
-- [drugi rad](https://bornaborcic.github.io/dentistry-10-00027.pdf)
+Tu se oslanjam na dva različita rada, oba datiraju iz 2021. U prvome je korištena vodena otopina s različitim primjesama etanola, BPA nije pronađen u slučaju Invisaligna, a jedina mu je leachana komponenta benzen[^4]. Načelno dobre vijesti, no a propos benzena:
+>Control and Prevention (CDC). The biological effect of this chemical ranges from skin rashes to irregular heartbeats, depending on the amount and exposure type [23]. The toxicity level of benzene as a degradation product varies depending on the polymer itself. For instance, benzene is considered to have high or medium toxicity in relation to polyamide and polyvinyl chloride polymers, respectively
 
-[^1]: [A spectroscopic study on orthodontic aligners: First evidence of secondary microplastic detachment after seven days of artificial saliva exposure]([https://bornaborcic.github.io/braun2021.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0048969722084601?via%3Dihub))
+Drugi rad je grafički neozbiljnije uređen, ponovno 3 različite otopine, ali ovaj puta se uz čisti etanol pojavluje i umjetna slina te mješavina umjetne sline i želučane tekućine[^5]. BPA leach zabilježen u sva tri slučaja, no indikativno je da je njegova kolićina u slučaju etanola najniža.
+>Nonetheless, the presence of BPA in orthodontic aligners suggests that further studies are needed to determine their biologic impact especially in vulnerable population such as pregnant females. Another limitation is the extended time intervals for BPA detection. Initially, we expected that the BPA release will be extended over period of days and the time points were designed accordingly. Surprisingly, most of the BPA release was seen at the first time point (24 hrs). Future studies should assess the BPA release on hourly rather than daily basis as the acute release might result in more impact on the body.
+
+veseiylko
+
+[^1]: [A spectroscopic study on orthodontic aligners: First evidence of secondary microplastic detachment after seven days of artificial saliva exposure](https://www.sciencedirect.com/science/article/abs/pii/S0048969722084601?via%3Dihub)
 [^2]: [Detection of Microplastic in Human Placenta and Meconium in a Clinical Setting](https://bornaborcic.github.io/braun2021.pdf#page=2)
 [^3]: [Plasticenta: First evidence of microplastics in human placenta](https://bornaborcic.github.io/10.1016@j.envint.2020.106274.pdf#page=7)
+[^4]: [Leaching of Different Clear Aligner Systems: An In Vitro Study](https://bornaborcic.github.io/dentistry-10-00027.pdf)
+[^5]: [Bisphenol A Release from Orthodontic Clear Aligners: An In-Vitro Study](https://bornaborcic.github.io/rpm.2103034.pdf)
+
