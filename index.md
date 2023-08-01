@@ -1,4 +1,4 @@
 ---
-title: Kolekcije:
+title: Kolekcije
 ---
 
