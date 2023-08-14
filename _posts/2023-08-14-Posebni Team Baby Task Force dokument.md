@@ -42,6 +42,6 @@ Naposljetku odmor uz [pop-science](https://psychcentral.com/news/2017/04/04/does
 
 
 [^1]: [A Randomized Trial of Progesterone in Women with Bleeding in Early Pregnancy](https://bornaborcic.github.io/10.1056@NEJMoa1813730.pdf)
-[^2]: [Early pregnancy maternal progesterone administration alters pituitary and testis function and steroid profle in male fetuses](https://bornaborcic.github.io/siemienowicz.pdf)
+[^2]: [Early pregnancy maternal progesterone administration alters pituitary and testis function and steroid profle in male fetuses](https://bornaborcic.github.io/siemienowicz2020.pdf)
 [^3]: [Effects of Neonatal Exposure to Progesterone on Sexual Behavior of Male and Female Rats](https://bornaborcic.github.io/hull1980.pdf)
 [^4]: [Effect of natural progesterone treatment during pregnancy on fetal testosterone and sexual behavior of the male offspring in the mouse](https://bornaborcic.github.io/pointis1987.pdf)
