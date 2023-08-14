@@ -1,5 +1,7 @@
 # Pregled radova
+
 ## Structural conformation and leaching from in vitro aged and retrieved Invisalign appliances[^1]
+
 >This effect was confirmed by the GC-MS analysis of the solvent extracts; it showed no residual monomers or oxidative byproducts, even though the polar storage conditions in the ethanol/water solution were much more aggressive relative to the oral environment.
 >In vitro aged appliances were found not to release traceable monomers or byproducts after immersion in an ethanol-water solvent.
 
