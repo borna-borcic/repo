@@ -1,18 +1,9 @@
-# Generalije
-
 ## Generalije
-
-### Generalije
-
-#### Generalije
-
-##### Generalije
-
 Postoji *luteal-placental shift* gdje nakon 9. tjedna trudnoće progesteron više ne potječe poglavito iz Corpus Luteuma već  iz trofoblasta u sklopu posteljice.
 >The ACOG (American College of Obstetricians and Gynecologists) clinical management guidelines have concluded, “use of progestins for threatened early pregnancy loss is controversial, and conclusive evidence supporting their use is lacking. Women who have experienced at least three prior pregnancy losses, however, may benefit from progesterone therapy in the first trimester" 
 >[BIoMedCentral.com](https://rbej.biomedcentral.com/articles/10.1186/s12958-021-00846-6)
 
-# Djelotvornost
+## Djelotvornost
 >Progestogens may have benefits on live birth rate and miscarriage rate for women with threatened miscarriage. These benefits appear to be confined to the use of oral progestogen, and no statistically significant improvements were seen with vaginal progesterone.
 >[Effect of progestogen for women with threatened miscarriage: a systematic review and meta-analysis](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.16261)
 
@@ -27,7 +18,7 @@ Pitanje serumske razine progesterona:
 >Historically, there have been tests that evaluate whether women have a luteal phase deficiency. However, this is hard to measure accurately. Blood levels of progesterone may vary throughout the day, and progesterone levels seen within the uterus itself may not correlate with progesterone levels observed in the blood. Therefore, some doctors supplement women attempting to achieve pregnancy with progesterone in many cases of infertility or recurrent pregnancy loss, even if tests are normal. 
 >[Fertility Associates of Memphis](https://www.fertilitymemphis.com/progesterone-supplementation/)
 
-# Štetnost
+## Štetnost
 
 ### Early pregnancy maternal progesterone administration alters pituitary and testis function and steroid profile in male fetuses[^2]
 
@@ -46,7 +37,7 @@ Naposljetku zaključak:
 >The effect of maternal exposure to progesterone upon the fetal pituitary-gonadal axis and the sexual behavior of the male offspring of mice were studied. Daily injection of progesterone from days 14 to 16 of pregnancy reduced testosterone production in the fetus but caused a significant increase in circulating LH levels. Progesterone-exposed males showed no alteration in anogenital distance or in body weight at any time from birth to adulthood. At 80-90 days of age males from control and progesterone-exposed groups did not differ from each other in testis and seminal vesicle weights. However, in the latter group, there was a marked reduction in the percentage of males that displayed mount, intromission and ejaculation patterns. These findings indicate that in utero exposure to pharmacological doses of progesterone that do not cause abnormalities of male internal and external genitalia may interfere with masculine behavior in adulthood. This alteration could partially be due to diminished peripheral testosterone levels during the prenatal period.
 
 
-https://psychcentral.com/news/2017/04/04/does-progesterone-influence-babys-later-sexuality#1
+Naposljetku odmor uz [pop-science](https://psychcentral.com/news/2017/04/04/does-progesterone-influence-babys-later-sexuality#1).
 
 
 
