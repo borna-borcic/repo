@@ -22,10 +22,16 @@ Ponovno, rad ispituje promjene u kemijskoj strukturi i mehaničkim svojstvima ap
 
 # Clinical Performances and Biological Features of Clear Aligners Materials in Orthodontics[^5]
 
+Također ne djeluje relevantno izuzev sljedećeg paragrafa:
 
+>On the other hand, there are only two previous studies in which the cytotoxicity of clear aligner materials is tested. Eliades et al. evaluated the potential release of Bisphenol-A (BPA) from the materials used by the Invisalign technology (Eliades et al., 2009). The study shows the non-existence of estrogenic and toxic effects on HGFs, in contrast to the slight toxicity that emerged from the current study.
+
+Primjećena je blaga citotoksičnost za stanice desni, a referira se i na raniju studiju[^6] čije metode meni nisu naročito razumljive, ali koja nije uočila estrogeno djelovanje sa strane Invisalign eluenata (?) u različitim koncentracijama na kulturu stranica osjetljivih na estrogen. Imam dojam kao da bi mi konkretna informacija o BPA leachingu bila korisnija od provjeravanja estrogeničnost Invisalign "soka", gdje pritom nigdje nije pružen decidiran komentar na prisutnost BPA. **Dodatno**; zašto je korištena otopina vode i soli, a ne alkoholna otopina koju je i sam autor primijenio u svojem ranijem radu?
 
 [^1]: [Structural conformation and leaching from in vitro aged and retrieved Invisalign appliances](https://bornaborcic.github.io/schuster2004-no leaching.pdf)
 [^2]: [Bisphenol A Release from Orthodontic Clear Aligners: An In-Vitro Study](https://bornaborcic.github.io/rpm.2103034.pdf#page=6)
 [^3]: [The mechanical properties of dental thermoplastic materials in a simulated intraoral environment](https://bornaborcic.github.io/ryokawa2006.pdf)
 [^4]: [Do the mechanical and chemical properties of Invisalign<sup>TM</sup> appliances change after use? A retrieval analysis](https://bornaborcic.github.io/gerardbradley2015.pdf)
 [^5]: [Clinical Performances and Biological Features of Clear Aligners Materials in Orthodontics](https://bornaborcic.github.io/Clinical_Performances_and_Biological_Features_of_C.pdf)
+[^6]: [Cytotoxicity and estrogenicity of Invisalign appliances](https://bornaborcic.github.io/inv_cytotox_bpa.pdf)
+
