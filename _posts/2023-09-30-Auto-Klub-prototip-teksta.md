@@ -1,4 +1,6 @@
-# Opel Rocks
+# Opel 
+
+## Davne 1908. u SAD-u Fordu je pošlo za rukom Modelom T motorizirati mase. 115 godina kasnije u Hrvatskoj, Opel će pokušati isto učiniti za maloljetnike i prometne recidiviste.
 
 Nije sasvim auto, a nije sasvim ni Opel. Rocks je plod suradnje PSA grupacije s Altranom, specijalistima za istraživanje i razvoj, koji su prema narudžbi pariškog konzorcija samostalno projektirali laki četverocikl za urbanu primjenu. Citroen je zatim na gotov proizvod nanio svoje ambleme, a naknadno su mu se pridružili Opel i Fiat s vlastitim izvedenicama po uzoru na prvo predstavljeni Ami.
 
