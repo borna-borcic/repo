@@ -1,4 +1,4 @@
-# 1704,36 €
+# 1704,36 € UKUPNO
 
 ### ~85 € - Carinske tablice za 7 dana
 
